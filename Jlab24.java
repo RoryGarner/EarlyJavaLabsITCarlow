@@ -4,10 +4,6 @@ class Jlab24
 // Student Name : 		Rory Garner
 // Student Id Number : 	C00193506
 // Date :				17/9/14
-// Purpose : 			
-
-
-
 
 {
     public static void main(String[] args)
@@ -29,9 +25,6 @@ class Jlab24
     		{
 				System.out.println("The number not is divisable - ");
     		}
-		
-	
-	
 
 
     }
